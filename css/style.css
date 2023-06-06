@@ -190,8 +190,16 @@ div .capitulos{
         padding: 0px;
         margin: 0px;
         background-color: #f3f3f300;
+
     }
-    
+      
+
+
+    .info{
+        display: block;
+        width: 60%;
+        margin: auto;
+      }
 }
 .nombre{
     vertical-align: middle;
